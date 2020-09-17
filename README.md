@@ -6,6 +6,6 @@
 minikube start
 eval $(minikube docker-env)
 
-npx create-next-app client
+npx create-next-app next_client
 npm run dev
 ```
